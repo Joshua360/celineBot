@@ -1,0 +1,20 @@
+{
+  "name": "celinebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python bot.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua360/celineBot.git"
+  },
+  "author": "josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshua360/celineBot/issues"
+  },
+  "homepage": "https://github.com/Joshua360/celineBot#readme"
+}
